@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Juferis
 - 👀 I’m interested in Node.js, Javascript
-- 🌱 I’m currently learning Node.js, Javascript, react
+- 🌱 I’m currently learning Node.js, Javascript
