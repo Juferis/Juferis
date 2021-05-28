@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @Juferis
-- 👀 I’m interested in Node.js, Javascript and Backend
-- 🌱 I’m currently learning Node.js, Javascript
+- 🌱 저는 Node.js와 Javascript, ES6를 주로 사용합니다.
