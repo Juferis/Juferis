@@ -22,3 +22,5 @@ Thanks for visiting my GitHub!
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Juferis)](https://wakatime.com/@Juferis)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
