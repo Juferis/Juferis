@@ -1,4 +1,4 @@
-# Hi!👋 I'm Kang Hyunjin!
+# Hi!👋 I'm Juferis
 I'm a passionate Web Developer with experience in both frontend and backend development.  
 I enjoy building efficient, user-friendly applications and am always eager to learn new technologies to enhance my skill set.  
 My expertise includes TypeScript, Angular, React, Java, and AWS, and I'm especially focused on creating scalable web software.
