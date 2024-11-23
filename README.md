@@ -23,7 +23,7 @@ Thanks for visiting my GitHub!
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Juferis)](https://wakatime.com/@Juferis)-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C411%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C412%20hrs%2032%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -58,5 +58,5 @@ Groovy                   1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 22/11/2024 21:19:31 UTC
+ Last Updated on 23/11/2024 21:18:58 UTC
 <!--END_SECTION:waka-->
