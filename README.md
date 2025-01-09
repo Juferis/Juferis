@@ -23,8 +23,6 @@ Thanks for visiting my GitHub!
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Juferis)](https://wakatime.com/@Juferis)-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C436%20hrs%2050%20mins-blue)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -47,5 +45,5 @@ Sunday                   106 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 08/01/2025 21:18:23 UTC
+ Last Updated on 09/01/2025 21:18:35 UTC
 <!--END_SECTION:waka-->
