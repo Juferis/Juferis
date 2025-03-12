@@ -24,6 +24,7 @@ Thanks for visiting my GitHub!
 
 <!--START_SECTION:waka-->
 <!-- ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C444%20hrs%2045%20mins-blue) -->
+[![wakatime](https://wakatime.com/badge/user/d178f767-cf1d-4e6a-8f5a-b3b8343fe322.svg)](https://wakatime.com/@d178f767-cf1d-4e6a-8f5a-b3b8343fe322)
 
 **I'm an Early 🐤** 
 
