@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 October 2025 - To: 26 October 2025
+From: 20 October 2025 - To: 27 October 2025
 
-Total Time: 35 hrs 27 mins
+Total Time: 37 hrs 2 mins
 
-Java              26 hrs 56 mins  >>>>>>>>>>>>>>>----------   60.46 %
-Other             9 hrs 6 mins    >>>>>--------------------   20.42 %
+Java              28 hrs 47 mins  >>>>>>>>>>>>>>>>---------   65.07 %
+Other             7 hrs 11 mins   >>>>---------------------   16.27 %
 ```
 
 <!--END_SECTION:waka-->
