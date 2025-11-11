@@ -3,20 +3,20 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 02 November 2025 - To: 09 November 2025
+From: 03 November 2025 - To: 10 November 2025
 
-Total Time: 32 hrs 44 mins
+Total Time: 32 hrs 34 mins
 
-Java              26 hrs 32 mins  >>>>>>>>>>>>>>>----------   58.59 %
-Other             12 hrs 33 mins  >>>>>>>------------------   27.71 %
-HTTP Request      1 hr 46 mins    >------------------------   03.92 %
-TypeScript        1 hr 6 mins     >------------------------   02.46 %
-Java Properties   55 mins         >------------------------   02.06 %
-Properties        51 mins         -------------------------   01.89 %
-protobuf          41 mins         -------------------------   01.53 %
-Protocol Buffer   19 mins         -------------------------   00.71 %
-Markdown          11 mins         -------------------------   00.43 %
+Java              24 hrs 53 mins  >>>>>>>>>>>>>>-----------   55.66 %
+Other             12 hrs 7 mins   >>>>>>>------------------   27.13 %
+HTTP Request      2 hrs 14 mins   >------------------------   05.01 %
+Java Properties   1 hr 45 mins    >------------------------   03.95 %
+TypeScript        1 hr 8 mins     >------------------------   02.56 %
+Properties        56 mins         >------------------------   02.11 %
+protobuf          43 mins         -------------------------   01.62 %
+Protocol Buffer   23 mins         -------------------------   00.89 %
 YAML              8 mins          -------------------------   00.33 %
+Bash              6 mins          -------------------------   00.25 %
 ```
 
 <!--END_SECTION:waka-->
