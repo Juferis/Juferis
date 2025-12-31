@@ -3,20 +3,20 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 22 December 2025 - To: 29 December 2025
+From: 23 December 2025 - To: 30 December 2025
 
-Total Time: 21 hrs 53 mins
+Total Time: 24 hrs 33 mins
 
-Java              14 hrs 50 mins  >>>>>>>>>>>>>------------   52.30 %
-Other             6 hrs 28 mins   >>>>>>-------------------   22.83 %
-Markdown          6 hrs 24 mins   >>>>>>-------------------   22.58 %
-YAML              27 mins         -------------------------   01.59 %
-Groovy            2 mins          -------------------------   00.18 %
-HTTP Request      2 mins          -------------------------   00.15 %
-Gradle            2 mins          -------------------------   00.14 %
-Bash              2 mins          -------------------------   00.13 %
-protobuf          1 min           -------------------------   00.06 %
-Protocol Buffer   0 secs          -------------------------   00.04 %
+Java           15 hrs 31 mins  >>>>>>>>>>>>-------------   49.15 %
+Markdown       8 hrs 45 mins   >>>>>>>------------------   27.76 %
+Other          7 hrs 1 min     >>>>>>-------------------   22.22 %
+YAML           10 mins         -------------------------   00.53 %
+HTTP Request   2 mins          -------------------------   00.13 %
+Bash           2 mins          -------------------------   00.12 %
+Groovy         0 secs          -------------------------   00.05 %
+Gradle         0 secs          -------------------------   00.02 %
+textmate       0 secs          -------------------------   00.01 %
+Python         0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
