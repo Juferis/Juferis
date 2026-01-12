@@ -3,16 +3,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 03 January 2026 - To: 10 January 2026
+From: 04 January 2026 - To: 11 January 2026
 
-Total Time: 22 hrs 55 mins
+Total Time: 22 hrs 6 mins
 
-Other          18 hrs 26 mins  >>>>>>>>>>>--------------   44.59 %
-Java           14 hrs 4 mins   >>>>>>>>>----------------   34.03 %
-HTTP Request   4 hrs 26 mins   >>>----------------------   10.72 %
-Markdown       3 hrs 36 mins   >>-----------------------   08.72 %
-YAML           26 mins         -------------------------   01.06 %
-TypeScript     20 mins         -------------------------   00.82 %
+Other          17 hrs 41 mins  >>>>>>>>>>>--------------   44.46 %
+Java           13 hrs 54 mins  >>>>>>>>>----------------   34.94 %
+HTTP Request   3 hrs 47 mins   >>-----------------------   09.53 %
+Markdown       3 hrs 36 mins   >>-----------------------   09.06 %
+YAML           26 mins         -------------------------   01.10 %
+TypeScript     20 mins         -------------------------   00.86 %
 Text           0 secs          -------------------------   00.02 %
 Bash           0 secs          -------------------------   00.02 %
 JSON           0 secs          -------------------------   00.01 %
