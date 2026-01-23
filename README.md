@@ -3,20 +3,20 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 14 January 2026 - To: 21 January 2026
+From: 15 January 2026 - To: 22 January 2026
 
-Total Time: 22 hrs 19 mins
+Total Time: 26 hrs 21 mins
 
-Other            10 hrs 25 mins  >>>>>>>>-----------------   31.82 %
-TypeScript       8 hrs 17 mins   >>>>>>-------------------   25.33 %
-Java             4 hrs 14 mins   >>>----------------------   12.98 %
-YAML             3 hrs 52 mins   >>>----------------------   11.82 %
-Markdown         3 hrs 30 mins   >>>----------------------   10.70 %
-HTML             38 mins         -------------------------   01.96 %
-Groovy           27 mins         -------------------------   01.40 %
-Gradle           25 mins         -------------------------   01.29 %
-Docker           19 mins         -------------------------   01.00 %
-JavaScript       12 mins         -------------------------   00.66 %
+TypeScript       8 hrs 58 mins   >>>>>>-------------------   25.78 %
+Other            8 hrs 27 mins   >>>>>>-------------------   24.28 %
+Markdown         5 hrs 28 mins   >>>>---------------------   15.72 %
+Java             5 hrs 24 mins   >>>>---------------------   15.52 %
+YAML             4 hrs 34 mins   >>>----------------------   13.14 %
+HTML             38 mins         -------------------------   01.84 %
+Groovy           23 mins         -------------------------   01.13 %
+Docker           19 mins         -------------------------   00.94 %
+JSON             16 mins         -------------------------   00.77 %
+JavaScript       12 mins         -------------------------   00.62 %
 ```
 
 <!--END_SECTION:waka-->
