@@ -3,13 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 21 February 2026 - To: 28 February 2026
+From: 22 February 2026 - To: 01 March 2026
 
-Total Time: 8 hrs 23 mins
+Total Time: 10 hrs 34 mins
 
-Markdown     5 hrs 1 min           >>>>>>>>>>>>>>>----------   59.85 %
-Java         3 hrs 21 mins         >>>>>>>>>>---------------   40.12 %
-PowerShell   0 secs                -------------------------   00.03 %
+Markdown     6 hrs 8 mins          >>>>>>>>>>>>>>>----------   58.09 %
+Java         4 hrs 10 mins         >>>>>>>>>>---------------   39.40 %
+SQL          15 mins               >------------------------   02.47 %
+PowerShell   0 secs                -------------------------   00.02 %
+JSON         0 secs                -------------------------   00.01 %
 Makefile     0 secs                -------------------------   00.00 %
 Git Config   0 secs                -------------------------   00.00 %
 ```
