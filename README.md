@@ -3,15 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 29 March 2026 - To: 05 April 2026
+From: 30 March 2026 - To: 06 April 2026
 
-Total Time: 2 hrs 57 mins
+Total Time: 53 mins
 
-Markdown   1 hr 55 mins          >>>>>>>>>>>>>>>>---------   64.80 %
-Java       30 mins               >>>>---------------------   16.93 %
-SQL        25 mins               >>>>---------------------   14.20 %
-YAML       5 mins                >------------------------   03.32 %
-Other      1 min                 -------------------------   00.75 %
+SQL        25 mins               >>>>>>>>>>>--------------   45.82 %
+Markdown   22 mins               >>>>>>>>>>---------------   41.06 %
+YAML       5 mins                >>>----------------------   10.70 %
+Other      1 min                 >------------------------   02.42 %
 ```
 
 <!--END_SECTION:waka-->
